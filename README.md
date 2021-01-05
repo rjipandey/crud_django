@@ -13,4 +13,4 @@ execute migrations ( python manage.py migrate)
 start server (python manage.py runserver)
 visit to http://127.0.0.1:8000/emp/
 Perform Crud Operations.
-Done.
+Done
