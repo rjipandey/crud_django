@@ -1,6 +1,6 @@
 # crud_django
 
-Install Python by adding PYTHON to PATH.
+Install Python by adding PYTHON to PATH.                                                                                                                                       
 install virtualenv (pip install virtualenv)
 Create Virtual Env ( python -m venv envname)
 Activate virtual environment. (Path'envname'\scripts\activate)
